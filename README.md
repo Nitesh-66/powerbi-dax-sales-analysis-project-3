@@ -10,7 +10,7 @@ This project focuses on performing **data modeling and advanced DAX calculations
 
 Watch the complete project explanation video here:
 
-👉 [Click to Watch Video](https://drive.google.com/xxxxx)
+👉 [Click to Watch Video](https://drive.google.com/file/d/1PrsPU7paAfBX1Kg5ys-FXMx5U__nRpgU/view?usp=sharing)
 
 ---
 
