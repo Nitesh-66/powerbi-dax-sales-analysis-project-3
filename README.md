@@ -6,6 +6,14 @@ This project focuses on performing **data modeling and advanced DAX calculations
 
 ---
 
+##  Project Demo
+
+Watch the complete project explanation video here:
+
+👉 [Click to Watch Video](https://drive.google.com/xxxxx)
+
+---
+
 ##  Objectives
 
 * Build a **structured data model (Star Schema)**
